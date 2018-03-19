@@ -1,1 +1,2 @@
 This is file1.txt its added by commit 1.
+THis text is added by new_feature branch by commit 3.
