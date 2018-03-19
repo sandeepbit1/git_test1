@@ -1,1 +1,2 @@
 This is file2.txt its added by commit 2.
+file2.txt is modify by new_feature branch by commit 4.

@@ -1,1 +1,5 @@
 This is file1.txt its added by commit 1 and again mofify by by commit 2.
+
+This is file1.txt its added by commit 1.
+THis text is added by new_feature branch by commit 3.
+
